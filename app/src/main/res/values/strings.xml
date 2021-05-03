@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">digibro</string>
+    <string name="top_apps">Top apps:</string>
+    <string name="hours_online">Hours spent:</string>
+</resources>
